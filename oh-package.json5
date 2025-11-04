@@ -1,4 +1,27 @@
 {
+  "name": "@mqxu/toolkit",
+  "version": "1.0.0",
+  "description": "面向 HarmonyOS Next 开发者的企业级工具库集合,提供网络通信、数据存储、日志调试、安全加密等核心功能",
+  "main": "index.ets",
+  "author": "mqxu",
+  "license": "Apache-2.0",
+  "keywords": [
+    "HarmonyOS",
+    "toolkit",
+    "utils",
+    "core",
+    "鸿蒙",
+    "工具库",
+    "企业级"
+  ],
+  "homepage": "https://github.com/mqxu/toolkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mqxu/toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mqxu/toolkit/issues"
+  },
   "modelVersion": "6.0.0",
   "dependencies": {
   },
