@@ -1,14 +1,12 @@
-# @ssy/toolkit_core
-
-SSY 鸿蒙工具集 - 核心基础工具包
+# 鸿蒙工具集 - 核心基础工具包
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Version](https://img.shields.io/badge/Version-0.1.0-green.svg)](https://github.com/mqxu/toolkit)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/mqxu/toolkit)
 [![HarmonyOS](https://img.shields.io/badge/Platform-HarmonyOS%20Next-blue.svg)](https://developer.harmonyos.com/)
 
 ## 简介
 
-`@ssy/toolkit_core` 是 SSY 鸿蒙工具集的核心模块，为 HarmonyOS Next 应用开发提供丰富的基础工具类。该模块完全使用 ArkTS
+`@mqxu/toolkit_core` 是鸿蒙工具集的核心模块，为 HarmonyOS Next 应用开发提供丰富的基础工具类。该模块完全使用 ArkTS
 开发，遵循 HarmonyOS HAR 规范，可无缝集成到任何 HarmonyOS 项目中。
 
 **特性**:
@@ -142,7 +140,7 @@ const osVersion = DeviceInfo.getOSVersion(); // "HarmonyOS 4.0.0"
 ### CommonConstants - 公共常量
 
 ```typescript
-import { CommonConstants } from '@ssy/toolkit_core';
+import { CommonConstants } from '@mqxu/toolkit_core';
 
 // 正则表达式
 CommonConstants.REGEX.EMAIL // 邮箱正则
