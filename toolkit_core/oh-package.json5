@@ -1,7 +1,7 @@
 {
   "name": "@mqxu/toolkit_core",
-  "version": "1.0.0",
-  "description": "SSY 鸿蒙工具集 - 核心基础工具包",
+  "version": "1.0.1",
+  "description": "鸿蒙工具集 - 核心基础工具包",
   "main": "Index.ets",
   "author": "mqxu",
   "license": "Apache-2.0",
@@ -14,7 +14,11 @@
     "math",
     "device"
   ],
+  "homepage": "https://github.com/mqxu/toolkit",
   "repository": "https://github.com/mqxu/toolkit.git",
+  "bugs": {
+    "url": "https://github.com/mqxu/toolkit/issues"
+  },
   "dependencies": {},
   "devDependencies": {
     "@ohos/hypium": "1.0.24"

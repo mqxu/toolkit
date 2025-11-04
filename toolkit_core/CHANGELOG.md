@@ -13,6 +13,28 @@
 
 ---
 
+## [1.0.1] - 2025-11-04
+
+### 修复 (Fixed)
+
+- 📦 完善 oh-package.json5 配置文件
+    - 添加 `homepage` 字段，指向项目主页
+    - 规范 `repository` 字段格式
+    - 添加 `bugs` 字段，方便用户反馈问题
+
+### 文档 (Documentation)
+
+- 📚 完善发布配置，符合 OHPM 发布规范
+- 📝 项目根目录新增完整的使用示例 (example 目录)
+    - StringUtils 字符串工具示例
+    - DateUtils 日期工具示例
+    - MathKit 数学工具示例
+    - DeviceInfo 设备信息工具示例
+    - JsonConverter JSON 转换工具示例
+- 📖 根目录 README.md 添加核心功能清单
+
+---
+
 ## [1.0.0] - 2025-11-04
 
 ### 🎉 首次发布

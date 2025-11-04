@@ -1,7 +1,7 @@
 # 鸿蒙工具集 - 核心基础工具包
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/mqxu/toolkit)
+[![Version](https://img.shields.io/badge/Version-1.0.1-green.svg)](https://github.com/mqxu/toolkit)
 [![HarmonyOS](https://img.shields.io/badge/Platform-HarmonyOS%20Next-blue.svg)](https://developer.harmonyos.com/)
 
 ## 简介
@@ -34,7 +34,7 @@ ohpm install @mqxu/toolkit_core
 ```json5
 {
   "dependencies": {
-    "@mqxu/toolkit_core": "^1.0.0"
+    "@mqxu/toolkit_core": "^1.0.1"
   }
 }
 ```

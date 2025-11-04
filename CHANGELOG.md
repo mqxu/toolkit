@@ -4,6 +4,35 @@
 
 版本号遵循 [语义化版本规范](https://semver.org/lang/zh-CN/)。
 
+## [1.0.1] - 2025-11-04
+
+### 修复 (Fixed)
+
+- 📦 完善 oh-package.json5 配置文件
+  - 添加完整的项目元信息 (name, version, description)
+  - 添加 homepage 和 repository 信息
+  - 添加 keywords 关键词
+  - 添加 bugs 问题反馈地址
+
+### 新增 (Added)
+
+- 📚 创建 example 示例目录,提供完整的使用示例
+  - StringUtils 字符串工具示例 (18 个方法演示)
+  - DateUtils 日期工具示例 (23 个方法演示)
+  - MathKit 数学工具示例 (21 个方法演示)
+  - DeviceInfo 设备信息工具示例 (15 个方法演示)
+  - JsonConverter JSON 转换工具示例 (8 个方法演示)
+- 📝 添加 example/README.md 示例说明文档
+- 📋 创建 CHANGELOG.md 更新日志文件
+
+### 改进 (Changed)
+
+- ✨ 所有示例代码均可直接运行
+- 📖 每个示例都包含详细的注释和使用说明
+- 🎨 示例代码采用可视化展示,便于理解
+
+---
+
 ## [1.0.0] - 2025-11-04
 
 ### 新增 (Added)
