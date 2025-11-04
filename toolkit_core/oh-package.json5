@@ -1,6 +1,6 @@
 {
   "name": "@mqxu/toolkit_core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "鸿蒙工具集 - 核心基础工具包",
   "main": "Index.ets",
   "author": "mqxu",

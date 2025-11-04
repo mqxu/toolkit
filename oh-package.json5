@@ -1,6 +1,6 @@
 {
   "name": "@mqxu/toolkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "面向 HarmonyOS Next 开发者的企业级工具库集合,提供网络通信、数据存储、日志调试、安全加密等核心功能",
   "main": "index.ets",
   "author": "mqxu",
