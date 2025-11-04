@@ -1,0 +1,22 @@
+{
+  "name": "@mqxu/toolkit_core",
+  "version": "1.0.0",
+  "description": "SSY 鸿蒙工具集 - 核心基础工具包",
+  "main": "Index.ets",
+  "author": "mqxu",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "toolkit",
+    "core",
+    "string",
+    "date",
+    "math",
+    "device"
+  ],
+  "repository": "https://github.com/mqxu/toolkit.git",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.24"
+  }
+}
